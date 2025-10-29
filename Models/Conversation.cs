@@ -5,7 +5,7 @@ namespace ChatBlitz.Models
 {
     public class Conversation
     {
-        // Properties
+        // This sentence is changed that needs to be pushed to the remote repository
         public int Id { get; set; }
         public int User1Id { get; set; }
         public int User2Id { get; set; }
