@@ -5,6 +5,7 @@ namespace ChatBlitz.Models
 {
     public class Conversation
     {
+        // Properties
         public int Id { get; set; }
         public int User1Id { get; set; }
         public int User2Id { get; set; }
